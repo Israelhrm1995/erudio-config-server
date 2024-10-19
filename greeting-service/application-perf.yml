@@ -8,7 +8,7 @@ management:
         include:
           - '*'
 greeting-service:
-  greeting: "Hola"
-  default-value: "Mundo"
+  greeting: "Alteracao"
+  default-value: " Perf Spring Cloud"
 
 
